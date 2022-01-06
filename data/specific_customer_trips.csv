@@ -1,0 +1,4 @@
+,customer_id,first_name,last_name,email,mobile,mobile_status,email_status,trip_datetime,ticket_price,departure_name,destination_name,estimated_duration,departure_lat,departure_lon,destination_lat,destination_lon
+4,3,Γιώργος,Καραμανώλης,george@crowdpolicy.com,6937038101.0,subscribed,subscribed,2021-07-25 21:00:00,40,athens,lianokladi,3,38.004993533026365,23.734888465647543,38.89272259836712,22.37305837196172
+12,3,Γιώργος,Καραμανώλης,george@crowdpolicy.com,6937038101.0,subscribed,subscribed,2021-10-25 21:00:00,28,athens,lamia,5,38.004993533026365,23.734888465647543,38.89686432493739,22.434856467039133
+21,3,Γιώργος,Καραμανώλης,george@crowdpolicy.com,6937038101.0,subscribed,subscribed,2021-10-30 22:00:00,19,athens,larisa,5,38.004993533026365,23.734888465647543,39.62991487433035,22.42267708283154
